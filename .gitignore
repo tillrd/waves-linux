@@ -1,0 +1,20 @@
+# Wine prefix (too large, contains user data)
+.wine/
+*.wine/
+
+# Temporary files
+*.log
+*.tmp
+/tmp/
+
+# Personal data
+*.exe
+*.msi
+*.dll
+*.vst3
+*.aaxplugin
+*.bundle
+
+# System files
+.DS_Store
+Thumbs.db
