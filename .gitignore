@@ -18,3 +18,11 @@
 # System files
 .DS_Store
 Thumbs.db
+
+# Allow images in assets directory
+!assets/
+!assets/**/*.png
+!assets/**/*.jpg
+!assets/**/*.jpeg
+!assets/**/*.gif
+!assets/**/*.webp

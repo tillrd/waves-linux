@@ -2,6 +2,10 @@
 
 Setup guide and scripts for running Waves plugins on Linux using Wine and yabridge.
 
+![Waves C1 Compressor running in REAPER on Linux](assets/images/screenshot.png)
+
+*Waves C1 Compressor plugin successfully running in REAPER v7.56 on Pop!_OS 24.04 LTS*
+
 ## ⚠️ Important Legal Notice
 
 **This is an UNOFFICIAL community guide. This project is not affiliated with, endorsed by, or connected to Waves Audio Ltd.**
